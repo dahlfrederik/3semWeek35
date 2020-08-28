@@ -1,9 +1,9 @@
 # WEEK 35 REVIEW  
 
-##Regarding unit tests
+## Regarding unit tests
 All tests done regarding databases should have been done with a specific test database, this was not the case and would not happen in production. 
 
-##Status on exercise completion? 
+## Status on exercise completion? 
 All exercises are completed to a full extend unless anything else is noted at the specific exercise. 
 
 ## Tuesday 
