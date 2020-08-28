@@ -66,6 +66,9 @@ The following is all the commands / methods that can be invoked on the droplet:
 
 ##### [Exercise manual : ](https://docs.google.com/document/d/1HdHiORGNyteRpn7MoOixowxL10LQuUHt9XxAKtL9r0o/edit)
 
+Source code: [bankcustomer](https://github.com/dahlfrederik/3semWeek35/tree/master/04-Friday/bankcustomer)
+
+
 * Link for [droplet](http://157.230.31.58:8081/bankcustomer-1.0/api/bankcustomer/all)
 
 * Show all customers: http://157.230.31.58:8081/bankcustomer-1.0/api/bankcustomer/all
