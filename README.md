@@ -44,7 +44,7 @@ Source code:	[jpql-demo-for-day4](https://github.com/dahlfrederik/3semWeek35/tre
 ## Friday 
 
 #### Exercise 1
-##### Note: I experienced some down time on the servlet because docker shut down automaticly so if you cannot acces the droplet version that might be why (though it should be up and running) 
+##### Note: I experienced some down time on the servlet because docker shut down automaticly so if you cannot acces the droplet version that might be why (though it should be up and running). Also the Databases has a thing with emptying it self... i cannot figure out why.  
 ##### [Exercise manual : ](https://docs.google.com/document/d/1c4uti7oLiipp1Sdny9Rwc1aOStfn9aasmWhhhzuTQS8/edit)
 
 
@@ -61,7 +61,8 @@ The following is all the commands / methods that can be invoked on the droplet:
 * Show employee by name: http://157.230.31.58:8081/jpa_rest_startup-1.0/api/employee/byname/{name}
 
 #### Exercise 2
-##### Note: I experienced some down time on the servlet because docker shut down automaticly so if you cannot acces the droplet version that might be why (though it should be up and running) 
+##### Note: I experienced some down time on the servlet because docker shut down automaticly so if you cannot acces the droplet version that might be why (though it should be up and running). Also the Databases has a thing with emptying it self... i cannot figure out why. 
+
 
 
 ##### [Exercise manual : ](https://docs.google.com/document/d/1HdHiORGNyteRpn7MoOixowxL10LQuUHt9XxAKtL9r0o/edit)
