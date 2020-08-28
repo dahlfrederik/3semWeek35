@@ -22,6 +22,8 @@
 
 
 * Exercise 2
+
+[week1-simple-jpa-rest]
 * Exercise 3 
 * Exercise 4
 * Exercise 5 
