@@ -18,12 +18,13 @@
 ## Thursday
 * Exercise 1
 
-[jpql-demo-for-day4]()
+	[jpql-demo-for-day4](https://github.com/dahlfrederik/3semWeek35/tree/master/03-Thursday/jpql-demo-for-day4-2)
 
 
 * Exercise 2
 
-[week1-simple-jpa-rest]
+	[week1-simple-jpa-rest](https://github.com/dahlfrederik/3semWeek35/tree/master/03-Thursday/week1-simple-jpa-rest-2)
+
 * Exercise 3 
 * Exercise 4
 * Exercise 5 
