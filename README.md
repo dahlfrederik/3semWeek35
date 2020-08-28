@@ -1,4 +1,10 @@
-# WEEK 35 REVIEW # 
+# WEEK 35 REVIEW  
+
+##Regarding unit tests
+All tests done regarding databases should have been done with a specific test database, this was not the case and would not happen in production. 
+
+##Status on exercise completion? 
+All exercises are completed to a full extend unless anything else is noted at the specific exercise. 
 
 ## Tuesday 
 ### Exercise manual 1 :
@@ -30,7 +36,7 @@ https://docs.google.com/document/d/131iZ7z3XKBjAGcB8qUqX9y0B2FxsoYu0zjRy6KxObPg/
 	[rest1](https://github.com/dahlfrederik/3semWeek35/tree/master/02-Wednesday/rest1)
 	
 ## Thursday
-###Exercise manual : 
+### Exercise manual : 
 https://docs.google.com/document/d/1c4uti7oLiipp1Sdny9Rwc1aOStfn9aasmWhhhzuTQS8/edit
 
 * Exercise 1
@@ -39,7 +45,7 @@ https://docs.google.com/document/d/1c4uti7oLiipp1Sdny9Rwc1aOStfn9aasmWhhhzuTQS8/
 
 
 ## Friday 
-###Exercise manual : 
+### Exercise manual : 
 https://docs.google.com/document/d/1c4uti7oLiipp1Sdny9Rwc1aOStfn9aasmWhhhzuTQS8/edit
 
 * Exercise 1
@@ -47,6 +53,9 @@ https://docs.google.com/document/d/1c4uti7oLiipp1Sdny9Rwc1aOStfn9aasmWhhhzuTQS8/
 	[week1-simple-jpa-rest](https://github.com/dahlfrederik/3semWeek35/tree/master/03-Thursday/week1-simple-jpa-rest-2)
 	
 * Link for [droplet](http://157.230.31.58:8081/jpa_rest_startup-1.0/api/employee/all) 
+
+The following is all the commands / methods that can be invoked on the droplet:
+
 * Use http://157.230.31.58:8081/jpa_rest_startup-1.0/api/employee/all
 * Use http://157.230.31.58:8081/jpa_rest_startup-1.0/api/employee/byid/{id}
 * Use http://157.230.31.58:8081/jpa_rest_startup-1.0/api/employee/highestpaid
