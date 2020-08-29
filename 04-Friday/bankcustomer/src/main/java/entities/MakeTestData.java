@@ -23,7 +23,7 @@ public class MakeTestData {
         try{
             em.getTransaction().begin();
             em.persist(new BankCustomer("Thor","Christensen", "f123fa", 20000.0, 2, "betaler ikke til tiden"));
-            em.persist(new BankCustomer("Josef","Marc", "g123ga", 10000.0, 3, "betaler ikke til tiden"));
+            em.persist(new BankCustomer("Josef","Marc", "g123ga", 10000.0, 3, "skylder 200k"));
             em.persist(new BankCustomer("Frederik","Dahl", "fbd102", 50000.0, 1, "betaler til tiden"));
             em.getTransaction().commit(); 
             
