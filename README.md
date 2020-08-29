@@ -20,7 +20,7 @@ Source code:	[Customer](https://github.com/dahlfrederik/3semWeek35/tree/master/0
 	
 * Exercise 3
 
-Source code:	[library] (https://github.com/dahlfrederik/3semWeek35/tree/master/01-Tuesday/library)
+Source code:	[library](https://github.com/dahlfrederik/3semWeek35/tree/master/01-Tuesday/library)
 	
 * Exercise 4 
 
