@@ -15,9 +15,10 @@ public class EmployeeFacade {
 
     private static EntityManagerFactory emf;
     private static EmployeeFacade instance;
-
-    public EmployeeFacade() {
+    
+    private EmployeeFacade(){    
     }
+
 
     public static EmployeeFacade getEmployeeFacade(EntityManagerFactory _emf) {
         if (instance == null) {
@@ -26,7 +27,8 @@ public class EmployeeFacade {
         }
         return instance;
     }
-
+    
+ 
     public Employee getEmployeeByID(int id) {
         EntityManager em = emf.createEntityManager();
         try {

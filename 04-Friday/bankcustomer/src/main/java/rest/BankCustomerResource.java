@@ -36,7 +36,7 @@ public class BankCustomerResource {
     }
         
     
-     @GET
+    @GET
     @Produces({MediaType.APPLICATION_JSON})
     @Path("all")
     public String allEmployees() {
